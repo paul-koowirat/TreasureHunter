@@ -1,6 +1,6 @@
 This is my game writing in React Native, the rules are:
 1. You are diver with intitial life of '3'. You will try to get the score by pickup the treasure box.
-2. The traeasure box located at sea floor at random position and has random score.
+2. The treasure box located at sea floor at random position and has random score.
 3. You move the diver lieft/right to pickup the treasure box by touch screen on the left or right side of diver.
 4. Everytime the diver pickup the treasure, you will get score from treasure box.
 5. The treasure box will be re-createa again random position and random score.
